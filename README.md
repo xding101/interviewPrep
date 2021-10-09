@@ -68,6 +68,11 @@
 [901. Online Stock Span (M)   ](https://leetcode.com/problems/online-stock-span/) <br/> 
 [1081. Smallest Subsequence of Distinct Characters (M)   ](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) <br/> 
 
+### Trie (3)
+[208. Implement Trie (Prefix Tree) (M)   ](https://leetcode.com/problems/implement-trie-prefix-tree/) <br/> 
+[211. Design Add and Search Words Data Structure (M)   ](https://leetcode.com/problems/design-add-and-search-words-data-structure/) <br/> 
+[421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
+
 ### Monoqueue (1)
 [239. Sliding Window Maximum (H)   ](https://leetcode.com/problems/sliding-window-maximum/) <br/> 
 
@@ -88,12 +93,6 @@
 
 ### Principle of Inclusion-Exclusion (1)
 [1201. Ugly Number III (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
-
-### Trie (3)
-[208. Implement Trie (Prefix Tree) (M)   ](https://leetcode.com/problems/implement-trie-prefix-tree/) <br/> 
-[211. Design Add and Search Words Data Structure (M)   ](https://leetcode.com/problems/design-add-and-search-words-data-structure/) <br/> 
-[421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
-
 
 
 <br/><br/><br/>
