@@ -41,6 +41,18 @@
 [131. Palindrome Partitioning (M)   ](https://leetcode.com/problems/palindrome-partitioning/) <br/> 
 [980. Unique Paths III (H)   ](https://leetcode.com/problems/unique-paths-iii/) <br/> 
 
+### Bit (5)
+[136. Single Number (E)   ](https://leetcode.com/problems/single-number/) <br/> 
+[137. Single Number II (M)   ](https://leetcode.com/problems/single-number-ii/) <br/> 
+[191. Number of 1 Bits (E)   ](https://leetcode.com/problems/number-of-1-bits/) <br/> 
+[260. Single Number III (M)   ](https://leetcode.com/problems/single-number-iii/) <br/> 
+[477. Total Hamming Distance (M)   ](https://leetcode.com/problems/total-hamming-distance/) <br/> 
+
+### Bitmask BruteForce (3)
+[78. Subsets (M)   ](https://leetcode.com/problems/subsets/) <br/> 
+[1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix (H)   ](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) <br/> 
+[1601. Maximum Number of Achievable Transfer Requests (H)   ](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) <br/> 
+
 ### Binary Search (7)
 [69. Sqrt(x) (E)   ](https://leetcode.com/problems/sqrtx/) <br/>
 [153. Find Minimum in Rotated Sorted Array (M)   ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) <br/>
@@ -73,10 +85,6 @@
 [1674. Minimum Moves to Make Array Complementary (M)   ](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) <br/> 
 [1854. Maximum Population Year (M)   ](https://leetcode.com/problems/maximum-population-year/) <br/> 
 
-### Bitmask BruteForce (3)
-[78. Subsets (M)   ](https://leetcode.com/problems/subsets/) <br/> 
-[1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix (H)   ](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) <br/> 
-[1601. Maximum Number of Achievable Transfer Requests (H)   ](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) <br/> 
 
 ### Principle of Inclusion-Exclusion (1)
 [1201. Ugly Number III (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
@@ -147,7 +155,8 @@
 ### DFS + Memo (1)
 [576. Out of Boundary Paths  (M)   ](https://leetcode.com/problems/out-of-boundary-paths/) <br/> 
 
-### Bitmask DP (1)
+### Bitmask DP (2)
+[526. Beautiful Arrangement (M)   ](https://leetcode.com/problems/beautiful-arrangement/) <br/> 
 [1799. Maximize Score After N Operations  (H)   ](https://leetcode.com/problems/maximize-score-after-n-operations/) <br/> 
 
 ### State Representation DP (2)
