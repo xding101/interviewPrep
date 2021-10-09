@@ -49,7 +49,10 @@
 [179. Largest Number (M)   ](https://leetcode.com/problems/largest-number/) <br/> 
 [1366. Rank Teams by Votes (M)   ](https://leetcode.com/problems/rank-teams-by-votes/) <br/> 
 
-### LinkedList
+### LinkedList (3)
+[21. Merge Two Sorted Lists (E)   ](https://leetcode.com/problems/merge-two-sorted-lists/) <br/> 
+[23. Merge K Sorted Lists (H)   ](https://leetcode.com/problems/merge-k-sorted-lists/) <br/> 
+[206. Reverse Linked List (E)   ](https://leetcode.com/problems/reverse-linked-list/) <br/> 
 
 
 ### Line Sweep (3)
