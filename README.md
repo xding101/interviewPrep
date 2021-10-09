@@ -63,7 +63,7 @@
 ### Linear DP (2)
 [70. Climbing Stairs (Prefix Tree) (E)   ](https://leetcode.com/problems/climbing-stairs/) <br/> 
 [91. Decode Ways (M)   ](https://leetcode.com/problems/decode-ways/) <br/> 
-
+[139. Word Break (M)   ](https://leetcode.com/problems/word-break/) <br/> 
 ### Tree DP (2)
 [96. Unique Binary Search Trees (M)   ](https://leetcode.com/problems/unique-binary-search-trees/) <br/> 
 [834. Sum of Distances in Tree  (H)   ](https://leetcode.com/problems/sum-of-distances-in-tree/) <br/> 
