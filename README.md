@@ -75,16 +75,22 @@
 [131. Palindrome Partitioning (M)   ](https://leetcode.com/problems/palindrome-partitioning/) <br/> 
 [980. Unique Paths III (H)   ](https://leetcode.com/problems/unique-paths-iii/) <br/> 
 
+### Trie (3)
+[208. Implement Trie (Prefix Tree) (M)   ](https://leetcode.com/problems/implement-trie-prefix-tree/) <br/> 
+[211. Design Add and Search Words Data Structure (M)   ](https://leetcode.com/problems/design-add-and-search-words-data-structure/) <br/> 
+[421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
+
+
+
+## Graph
+
 ### Union Find (4)
 [684. Redundant Connection (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
 [1202. Smallest String With Swaps (M)   ](https://leetcode.com/problems/smallest-string-with-swaps/) <br/> 
 [1319. Number of Operations to Make Network Connected (M)   ](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) <br/> 
 [1722. Minimize Hamming Distance After Swap Operations (M)   ](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) <br/> 
 
-### Trie (3)
-[208. Implement Trie (Prefix Tree) (M)   ](https://leetcode.com/problems/implement-trie-prefix-tree/) <br/> 
-[211. Design Add and Search Words Data Structure (M)   ](https://leetcode.com/problems/design-add-and-search-words-data-structure/) <br/> 
-[421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
+
 
 
 
