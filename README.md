@@ -1,11 +1,20 @@
 # 好题目推荐整理，助你快速上岸
 
+### Warm Up Easy BruteForce
+[2006. Count Number of Pairs With Absolute Difference K (E)   ](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) <br/> 
+[2022. Convert 1D Array Into 2D Array (E)   ](https://leetcode.com/problems/convert-1d-array-into-2d-array/) <br/> 
+[2027. Minimum Moves to Convert String (E)   ](https://leetcode.com/problems/minimum-moves-to-convert-string/) <br/> 
+
 
 ### Array Index Swap (2)
 [41. First Missing Positive (H)   ](https://leetcode.com/problems/first-missing-positive/) <br/> 
 [442. Find All Duplicates in an Array (M)   ](https://leetcode.com/problems/find-all-duplicates-in-an-array/) <br/> 
 
-### Binary Search (5)
+
+### Two Pointer
+
+### Binary Search (6)
+[69. Sqrt(x) (E)   ](https://leetcode.com/problems/sqrtx/) <br/>
 [153. Find Minimum in Rotated Sorted Array (M)   ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) <br/>
 [278. First Bad Version (E)   ](https://leetcode.com/problems/first-bad-version/) <br/> 
 [778. Swim in Rising Water (H)   ](https://leetcode.com/problems/swim-in-rising-water/) <br/> 
@@ -23,8 +32,9 @@
 [1109. Corporate Flight Bookings (M)   ](https://leetcode.com/problems/corporate-flight-bookings/) <br/> 
 [1674. Minimum Moves to Make Array Complementary (M)   ](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) <br/> 
 
-### Bitmask BruteForce (2)
+### Bitmask BruteForce (3)
 [78. Subsets (M)   ](https://leetcode.com/problems/subsets/) <br/> 
+[1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix (H)   ](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) <br/> 
 [1601. Maximum Number of Achievable Transfer Requests (H)   ](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) <br/> 
 
 ### 容斥原理 (1)
@@ -40,4 +50,9 @@
 [208. Implement Trie (Prefix Tree) (M)   ](https://leetcode.com/problems/implement-trie-prefix-tree/) <br/> 
 [211. Design Add and Search Words Data Structure (M)   ](https://leetcode.com/problems/design-add-and-search-words-data-structure/) <br/> 
 [421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
+
+## Dynamic Programming
+
+
+
 
