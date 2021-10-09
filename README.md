@@ -1,7 +1,13 @@
 # 好题目推荐整理，助你快速上岸
 
-### Warm Up Easy BruteForce
+### Basic Programming (9)
+[1662. Check If Two String Arrays are Equivalent (E)   ](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) <br/> 
+[1688. Count of Matches in Tournament (E)   ](https://leetcode.com/problems/count-of-matches-in-tournament/) <br/> 
+[1848. Minimum Distance to the Target Element (E)   ](https://leetcode.com/problems/minimum-distance-to-the-target-element/) <br/> 
+[1929. Concatenation of Array (E)   ](https://leetcode.com/problems/concatenation-of-array/) <br/> 
+[1995. Count Special Quadruplets (E)   ](https://leetcode.com/problems/count-special-quadruplets//) <br/> 
 [2006. Count Number of Pairs With Absolute Difference K (E)   ](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) <br/> 
+[2011. Final Value of Variable After Performing Operations (E)   ](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) <br/> 
 [2022. Convert 1D Array Into 2D Array (E)   ](https://leetcode.com/problems/convert-1d-array-into-2d-array/) <br/> 
 [2027. Minimum Moves to Convert String (E)   ](https://leetcode.com/problems/minimum-moves-to-convert-string/) <br/> 
 
@@ -28,9 +34,10 @@
 ### LinkedList
 
 
-### Line Sweep (2)
+### Line Sweep (3)
 [1109. Corporate Flight Bookings (M)   ](https://leetcode.com/problems/corporate-flight-bookings/) <br/> 
 [1674. Minimum Moves to Make Array Complementary (M)   ](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) <br/> 
+[1854. Maximum Population Year (M)   ](https://leetcode.com/problems/maximum-population-year/) <br/> 
 
 ### Bitmask BruteForce (3)
 [78. Subsets (M)   ](https://leetcode.com/problems/subsets/) <br/> 
@@ -52,6 +59,8 @@
 [421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
 
 ## Dynamic Programming
+<br/>
+### Linear DP
 
 
 
