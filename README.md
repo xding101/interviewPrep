@@ -31,7 +31,7 @@
 [1201. Ugly Number III (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
 
 ### Union Find (3)
-[684. Redundant Connection (M)   ]((https://leetcode.com/problems/ugly-number-iii/) <br/> 
+[684. Redundant Connection (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
 [1202. Smallest String With Swaps (M)   ](https://leetcode.com/problems/smallest-string-with-swaps/) <br/> 
 [1319. Number of Operations to Make Network Connected (M)   ](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) <br/> 
 
