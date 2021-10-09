@@ -3,14 +3,13 @@
 # (66brother)
 
 
-### Basic Programming (11)
+### Basic Programming (10)
 [485. Max Consecutive Ones (E)   ](https://leetcode.com/problems/max-consecutive-ones/) <br/> 
 [551. Student Attendance Record I (E)   ](https://leetcode.com/problems/student-attendance-record-i/) <br/> 
 [1662. Check If Two String Arrays are Equivalent (E)   ](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) <br/> 
 [1688. Count of Matches in Tournament (E)   ](https://leetcode.com/problems/count-of-matches-in-tournament/) <br/> 
 [1848. Minimum Distance to the Target Element (E)   ](https://leetcode.com/problems/minimum-distance-to-the-target-element/) <br/> 
 [1929. Concatenation of Array (E)   ](https://leetcode.com/problems/concatenation-of-array/) <br/> 
-[1995. Count Special Quadruplets (E)   ](https://leetcode.com/problems/count-special-quadruplets//) <br/> 
 [2006. Count Number of Pairs With Absolute Difference K (E)   ](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) <br/> 
 [2011. Final Value of Variable After Performing Operations (E)   ](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) <br/> 
 [2022. Convert 1D Array Into 2D Array (E)   ](https://leetcode.com/problems/convert-1d-array-into-2d-array/) <br/> 
