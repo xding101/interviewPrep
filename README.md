@@ -1,6 +1,7 @@
 # 好题目推荐整理，助你快速上岸 (未完成)
 
-### Basic Programming (10)
+### Basic Programming (11)
+[485. Max Consecutive Ones (E)   ](https://leetcode.com/problems/max-consecutive-ones/) <br/> 
 [551. Student Attendance Record I (E)   ](https://leetcode.com/problems/student-attendance-record-i/) <br/> 
 [1662. Check If Two String Arrays are Equivalent (E)   ](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) <br/> 
 [1688. Count of Matches in Tournament (E)   ](https://leetcode.com/problems/count-of-matches-in-tournament/) <br/> 
@@ -25,6 +26,11 @@
 [3. Longest Substring Without Repeating Characters (M)   ](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br/> 
 [1004. Max Consecutive Ones III (M)   ](https://leetcode.com/problems/max-consecutive-ones-iii/) <br/> 
 [2024. Maximize the Confusion of an Exam (M)   ](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) <br/> 
+
+### Stack (3)
+[20. Valid Parentheses (E)   ](https://leetcode.com/problems/valid-parentheses/) <br/> 
+[496. Next Greater Element I (E)   ](https://leetcode.com/problems/next-greater-element-i/) <br/> 
+[901. Online Stock Span (M)   ](https://leetcode.com/problems/online-stock-span/) <br/> 
 
 ### Monoqueue (1)
 [239. Sliding Window Maximum (H)   ](https://leetcode.com/problems/sliding-window-maximum/) <br/> 
