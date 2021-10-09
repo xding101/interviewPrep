@@ -50,10 +50,11 @@
 [875. Koko Eating Bananas (M)   ](https://leetcode.com/problems/koko-eating-bananas/) <br/> 
 [1283. Find the Smallest Divisor Given a Threshold (M)   ](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) <br/> 
 
-### Stack (3)
+### Stack (4)
 [20. Valid Parentheses (E)   ](https://leetcode.com/problems/valid-parentheses/) <br/> 
 [496. Next Greater Element I (E)   ](https://leetcode.com/problems/next-greater-element-i/) <br/> 
 [901. Online Stock Span (M)   ](https://leetcode.com/problems/online-stock-span/) <br/> 
+[1081. Smallest Subsequence of Distinct Characters (M)   ](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) <br/> 
 
 ### Monoqueue (1)
 [239. Sliding Window Maximum (H)   ](https://leetcode.com/problems/sliding-window-maximum/) <br/> 
@@ -95,7 +96,7 @@
 ## Graph
 
 ### General Graph Question (1)
-[133. Surrounded Regions (M)   ](https://leetcode.com/problems/clone-graph/) <br/> 
+[133. Clone Graph (M)   ](https://leetcode.com/problems/clone-graph/) <br/> 
 
 ### BFS/DFS (4)
 [130. Surrounded Regions (M)   ](https://leetcode.com/problems/surrounded-regions/) <br/> 
@@ -164,7 +165,9 @@
 ### KnapSack (1)
 [416. Partition Equal Subset Sum  (M)   ](https://leetcode.com/problems/partition-equal-subset-sum/) <br/> 
 
-
-
+### Left/Right DP (3)
+[238. Product of Array Except Self (M)   ](https://leetcode.com/problems/product-of-array-except-self/) <br/> 
+[918. Maximum Sum Circular Subarray (M)   ](https://leetcode.com/problems/maximum-sum-circular-subarray/) <br/> 
+[1186. Maximum Subarray Sum with One Deletion (M)   ](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/submissions/) <br/> 
 
 
