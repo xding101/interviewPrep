@@ -94,12 +94,30 @@
 
 ## Graph
 
-### Tree (8)
+### General Graph Question (1)
+[133. Surrounded Regions (M)   ](https://leetcode.com/problems/clone-graph/) <br/> 
+
+### BFS/DFS (4)
+[130. Surrounded Regions (M)   ](https://leetcode.com/problems/surrounded-regions/) <br/> 
+[542. 01 Matrix (M)   ](https://leetcode.com/problems/01-matrix/) <br/> 
+[934. Shortest Bridges (M)   ](https://leetcode.com/problems/shortest-bridge/) <br/> 
+[994. Rotting Oranges (M)   ](https://leetcode.com/problems/rotting-oranges/) <br/> 
+
+### Topological Sort (1)
+[207. Course Schedule (M)   ](https://leetcode.com/problems/course-schedule/) <br/> 
+
+### Bipartite Graph (1)
+[785. Is Graph Bipartite? (M)   ](https://leetcode.com/problems/is-graph-bipartite/) <br/> 
+
+### Shortest Path
+
+### Tree (9)
 [98. Validate Binary Search Tree (M)   ](https://leetcode.com/problems/validate-binary-search-tree/) <br/> 
 [103. Binary Tree Zigzag Level Order Traversal (M)   ](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) <br/> 
 [108. Convert Sorted Array to Binary Search Tree (E)   ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) <br/> 
 [116. Populating Next Right Pointers in Each Node (M)   ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) <br/> 
 [236. Lowest Common Ancestor of a Binary Tree (M)   ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) <br/> 
+[543. Diameter of Binary Tree (E)   ](https://leetcode.com/problems/diameter-of-binary-tree/) <br/> 
 [894. All Possible Full Binary Trees (M)   ](https://leetcode.com/problems/all-possible-full-binary-trees/) <br/> 
 [987. Vertical Order Traversal of a Binary Tree (H)   ](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) <br/> 
 [1339. Maximum Product of Splitted Binary Tree (M)   ](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) <br/> 
