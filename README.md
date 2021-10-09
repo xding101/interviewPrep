@@ -1,6 +1,7 @@
 # 好题目推荐整理，助你快速上岸 (未完成)
 
-### Basic Programming (9)
+### Basic Programming (10)
+[551. Student Attendance Record I (E)   ](https://leetcode.com/problems/student-attendance-record-i/) <br/> 
 [1662. Check If Two String Arrays are Equivalent (E)   ](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) <br/> 
 [1688. Count of Matches in Tournament (E)   ](https://leetcode.com/problems/count-of-matches-in-tournament/) <br/> 
 [1848. Minimum Distance to the Target Element (E)   ](https://leetcode.com/problems/minimum-distance-to-the-target-element/) <br/> 
@@ -47,6 +48,13 @@
 ### 容斥原理 (1)
 [1201. Ugly Number III (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
 
+### Backtracking (5)
+[17. Letter Combinations of a Phone Number (M)   ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) <br/> 
+[22. Generate Parentheses (M)   ](https://leetcode.com/problems/generate-parentheses/) <br/> 
+[37. Sudoku Solver (H)   ](https://leetcode.com/problems/sudoku-solver/) <br/>
+[131. Palindrome Partitioning (M)   ](https://leetcode.com/problems/palindrome-partitioning/) <br/> 
+[980. Unique Paths III (H)   ](https://leetcode.com/problems/unique-paths-iii/) <br/> 
+
 ### Union Find (4)
 [684. Redundant Connection (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
 [1202. Smallest String With Swaps (M)   ](https://leetcode.com/problems/smallest-string-with-swaps/) <br/> 
@@ -60,13 +68,19 @@
 
 ## Dynamic Programming
 
-### Linear DP (2)
+### Linear DP (4)
 [70. Climbing Stairs (Prefix Tree) (E)   ](https://leetcode.com/problems/climbing-stairs/) <br/> 
 [91. Decode Ways (M)   ](https://leetcode.com/problems/decode-ways/) <br/> 
 [139. Word Break (M)   ](https://leetcode.com/problems/word-break/) <br/> 
+[1220. Count Vowels Permutation (H)   ](https://leetcode.com/problems/count-vowels-permutation/) <br/> 
+
+### State Representation DP (1)
+[552. Student Attendance Record II (M)   ](https://leetcode.com/problems/student-attendance-record-ii/) <br/> 
+
 ### Tree DP (2)
 [96. Unique Binary Search Trees (M)   ](https://leetcode.com/problems/unique-binary-search-trees/) <br/> 
 [834. Sum of Distances in Tree  (H)   ](https://leetcode.com/problems/sum-of-distances-in-tree/) <br/> 
+
 ### Bitmask DP
 
 ### Prefix Sum
