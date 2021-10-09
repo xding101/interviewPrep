@@ -109,7 +109,10 @@
 ### Bipartite Graph (1)
 [785. Is Graph Bipartite? (M)   ](https://leetcode.com/problems/is-graph-bipartite/) <br/> 
 
-### Shortest Path
+### Shortest Path (3)
+[743. Network Delay Time (M)   ](https://leetcode.com/problems/network-delay-time/) <br/> 
+[787. Cheapest Flights Within K Stops (M)   ](https://leetcode.com/problems/cheapest-flights-within-k-stops/) <br/> 
+[1293. Shortest Path in a Grid with Obstacles Elimination (H)   ](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) <br/> 
 
 ### Tree (9)
 [98. Validate Binary Search Tree (M)   ](https://leetcode.com/problems/validate-binary-search-tree/) <br/> 
