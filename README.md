@@ -19,7 +19,8 @@
 [442. Find All Duplicates in an Array (M)   ](https://leetcode.com/problems/find-all-duplicates-in-an-array/) <br/> 
 
 
-### Two Pointer (1)
+### Two Pointer (2)
+[11. Container With Most Water (M)   ](https://leetcode.com/problems/container-with-most-water/submissions/) <br/> 
 [88. Merge Sorted Array (E)   ](https://leetcode.com/problems/merge-sorted-array/) <br/> 
 
 ### Sliding Window (3)
@@ -35,10 +36,11 @@
 ### Monoqueue (1)
 [239. Sliding Window Maximum (H)   ](https://leetcode.com/problems/sliding-window-maximum/) <br/> 
 
-### Binary Search (6)
+### Binary Search (7)
 [69. Sqrt(x) (E)   ](https://leetcode.com/problems/sqrtx/) <br/>
 [153. Find Minimum in Rotated Sorted Array (M)   ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) <br/>
 [278. First Bad Version (E)   ](https://leetcode.com/problems/first-bad-version/) <br/> 
+[540. Single Element in a Sorted Array (M)   ](https://leetcode.com/problems/single-element-in-a-sorted-array/) <br/> 
 [778. Swim in Rising Water (H)   ](https://leetcode.com/problems/swim-in-rising-water/) <br/> 
 [875. Koko Eating Bananas (M)   ](https://leetcode.com/problems/koko-eating-bananas/) <br/> 
 [1283. Find the Smallest Divisor Given a Threshold (M)   ](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) <br/> 
@@ -101,6 +103,10 @@
 [834. Sum of Distances in Tree  (H)   ](https://leetcode.com/problems/sum-of-distances-in-tree/) <br/> 
 
 ### 背包
+
+### DFS + Memo (1)
+[576. Out of Boundary Paths  (M)   ](https://leetcode.com/problems/out-of-boundary-paths/) <br/> 
+
 
 
 ### Bitmask DP
