@@ -105,7 +105,8 @@
 
 ### Bitmask DP
 
-### Prefix Sum
-
+### Prefix Sum (2)
+[560. Subarray Sum Equals K (M)   ](https://leetcode.com/problems/subarray-sum-equals-k/) <br/>
+[1524. Number of Sub-arrays With Odd Sum (M)   ](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) <br/>
 
 
