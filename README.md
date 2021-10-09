@@ -16,10 +16,15 @@
 [2027. Minimum Moves to Convert String (E)   ](https://leetcode.com/problems/minimum-moves-to-convert-string/) <br/> 
 
 
-### Array Index Swap (2)
+### Array (2)
 [41. First Missing Positive (H)   ](https://leetcode.com/problems/first-missing-positive/) <br/> 
 [442. Find All Duplicates in an Array (M)   ](https://leetcode.com/problems/find-all-duplicates-in-an-array/) <br/> 
 
+### LinkedList (4)
+[21. Merge Two Sorted Lists (E)   ](https://leetcode.com/problems/merge-two-sorted-lists/) <br/> 
+[23. Merge K Sorted Lists (H)   ](https://leetcode.com/problems/merge-k-sorted-lists/) <br/> 
+[206. Reverse Linked List (E)   ](https://leetcode.com/problems/reverse-linked-list/) <br/> 
+[876. Middle of the Linked List (E)   ](https://leetcode.com/problems/middle-of-the-linked-list/) <br/> 
 
 ### Two Pointer (2)
 [11. Container With Most Water (M)   ](https://leetcode.com/problems/container-with-most-water/submissions/) <br/> 
@@ -28,15 +33,14 @@
 ### Sliding Window (3)
 [3. Longest Substring Without Repeating Characters (M)   ](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br/> 
 [1004. Max Consecutive Ones III (M)   ](https://leetcode.com/problems/max-consecutive-ones-iii/) <br/> 
-[2024. Maximize the Confusion of an Exam (M)   ](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) <br/> 
+[2024. Maximize the Confusion of an Exam (M)   ](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) <br/>
 
-### Stack (3)
-[20. Valid Parentheses (E)   ](https://leetcode.com/problems/valid-parentheses/) <br/> 
-[496. Next Greater Element I (E)   ](https://leetcode.com/problems/next-greater-element-i/) <br/> 
-[901. Online Stock Span (M)   ](https://leetcode.com/problems/online-stock-span/) <br/> 
-
-### Monoqueue (1)
-[239. Sliding Window Maximum (H)   ](https://leetcode.com/problems/sliding-window-maximum/) <br/> 
+### Backtracking (5)
+[17. Letter Combinations of a Phone Number (M)   ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) <br/> 
+[22. Generate Parentheses (M)   ](https://leetcode.com/problems/generate-parentheses/) <br/> 
+[37. Sudoku Solver (H)   ](https://leetcode.com/problems/sudoku-solver/) <br/>
+[131. Palindrome Partitioning (M)   ](https://leetcode.com/problems/palindrome-partitioning/) <br/> 
+[980. Unique Paths III (H)   ](https://leetcode.com/problems/unique-paths-iii/) <br/> 
 
 ### Binary Search (7)
 [69. Sqrt(x) (E)   ](https://leetcode.com/problems/sqrtx/) <br/>
@@ -47,15 +51,17 @@
 [875. Koko Eating Bananas (M)   ](https://leetcode.com/problems/koko-eating-bananas/) <br/> 
 [1283. Find the Smallest Divisor Given a Threshold (M)   ](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) <br/> 
 
+### Stack (3)
+[20. Valid Parentheses (E)   ](https://leetcode.com/problems/valid-parentheses/) <br/> 
+[496. Next Greater Element I (E)   ](https://leetcode.com/problems/next-greater-element-i/) <br/> 
+[901. Online Stock Span (M)   ](https://leetcode.com/problems/online-stock-span/) <br/> 
+
+### Monoqueue (1)
+[239. Sliding Window Maximum (H)   ](https://leetcode.com/problems/sliding-window-maximum/) <br/> 
+
 ### Strange Sort (2)
 [179. Largest Number (M)   ](https://leetcode.com/problems/largest-number/) <br/> 
 [1366. Rank Teams by Votes (M)   ](https://leetcode.com/problems/rank-teams-by-votes/) <br/> 
-
-### LinkedList (4)
-[21. Merge Two Sorted Lists (E)   ](https://leetcode.com/problems/merge-two-sorted-lists/) <br/> 
-[23. Merge K Sorted Lists (H)   ](https://leetcode.com/problems/merge-k-sorted-lists/) <br/> 
-[206. Reverse Linked List (E)   ](https://leetcode.com/problems/reverse-linked-list/) <br/> 
-[876. Middle of the Linked List (E)   ](https://leetcode.com/problems/middle-of-the-linked-list/) <br/> 
 
 ### Line Sweep (3)
 [1109. Corporate Flight Bookings (M)   ](https://leetcode.com/problems/corporate-flight-bookings/) <br/> 
@@ -70,17 +76,14 @@
 ### Principle of Inclusion-Exclusion (1)
 [1201. Ugly Number III (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
 
-### Backtracking (5)
-[17. Letter Combinations of a Phone Number (M)   ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) <br/> 
-[22. Generate Parentheses (M)   ](https://leetcode.com/problems/generate-parentheses/) <br/> 
-[37. Sudoku Solver (H)   ](https://leetcode.com/problems/sudoku-solver/) <br/>
-[131. Palindrome Partitioning (M)   ](https://leetcode.com/problems/palindrome-partitioning/) <br/> 
-[980. Unique Paths III (H)   ](https://leetcode.com/problems/unique-paths-iii/) <br/> 
-
 ### Trie (3)
 [208. Implement Trie (Prefix Tree) (M)   ](https://leetcode.com/problems/implement-trie-prefix-tree/) <br/> 
 [211. Design Add and Search Words Data Structure (M)   ](https://leetcode.com/problems/design-add-and-search-words-data-structure/) <br/> 
 [421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
+
+### Prefix Sum (2)
+[560. Subarray Sum Equals K (M)   ](https://leetcode.com/problems/subarray-sum-equals-k/) <br/>
+[1524. Number of Sub-arrays With Odd Sum (M)   ](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) <br/>
 
 
 <br/><br/><br/>
@@ -120,24 +123,21 @@
 
 ### State Representation DP (2)
 [552. Student Attendance Record II (M)   ](https://leetcode.com/problems/student-attendance-record-ii/) <br/> 
-[790. Domino and Tromino Tiling (M)   ](https://leetcode.com/problems/domino-and-tromino-tiling/submissions/) <br/> 
+[1411. Number of Ways to Paint N × 3 Grid (H)   ](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) <br/> 
 
 ### Tree DP (3)
 [96. Unique Binary Search Trees (M)   ](https://leetcode.com/problems/unique-binary-search-trees/) <br/> 
 [337. House Robber III (M)   ](https://leetcode.com/problems/house-robber-iii/) <br/> 
 [834. Sum of Distances in Tree  (H)   ](https://leetcode.com/problems/sum-of-distances-in-tree/) <br/> 
 
-### 背包
+### KnapSack
+[416. Partition Equal Subset Sum  (M)   ](https://leetcode.com/problems/partition-equal-subset-sum/) <br/> 
 
 ### DFS + Memo (1)
 [576. Out of Boundary Paths  (M)   ](https://leetcode.com/problems/out-of-boundary-paths/) <br/> 
 
+### Bitmask DP (1)
+[1799. Maximize Score After N Operations  (H)   ](https://leetcode.com/problems/maximize-score-after-n-operations/) <br/> 
 
-
-### Bitmask DP
-
-### Prefix Sum (2)
-[560. Subarray Sum Equals K (M)   ](https://leetcode.com/problems/subarray-sum-equals-k/) <br/>
-[1524. Number of Sub-arrays With Odd Sum (M)   ](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) <br/>
 
 
