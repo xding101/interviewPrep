@@ -121,6 +121,12 @@
 [139. Word Break (M)   ](https://leetcode.com/problems/word-break/) <br/> 
 [1220. Count Vowels Permutation (H)   ](https://leetcode.com/problems/count-vowels-permutation/) <br/> 
 
+### DFS + Memo (1)
+[576. Out of Boundary Paths  (M)   ](https://leetcode.com/problems/out-of-boundary-paths/) <br/> 
+
+### Bitmask DP (1)
+[1799. Maximize Score After N Operations  (H)   ](https://leetcode.com/problems/maximize-score-after-n-operations/) <br/> 
+
 ### State Representation DP (2)
 [552. Student Attendance Record II (M)   ](https://leetcode.com/problems/student-attendance-record-ii/) <br/> 
 [1411. Number of Ways to Paint N × 3 Grid (H)   ](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) <br/> 
@@ -130,14 +136,10 @@
 [337. House Robber III (M)   ](https://leetcode.com/problems/house-robber-iii/) <br/> 
 [834. Sum of Distances in Tree  (H)   ](https://leetcode.com/problems/sum-of-distances-in-tree/) <br/> 
 
-### KnapSack
+### KnapSack (1)
 [416. Partition Equal Subset Sum  (M)   ](https://leetcode.com/problems/partition-equal-subset-sum/) <br/> 
 
-### DFS + Memo (1)
-[576. Out of Boundary Paths  (M)   ](https://leetcode.com/problems/out-of-boundary-paths/) <br/> 
 
-### Bitmask DP (1)
-[1799. Maximize Score After N Operations  (H)   ](https://leetcode.com/problems/maximize-score-after-n-operations/) <br/> 
 
 
 
