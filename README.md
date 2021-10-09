@@ -68,7 +68,7 @@
 [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix (H)   ](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) <br/> 
 [1601. Maximum Number of Achievable Transfer Requests (H)   ](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) <br/> 
 
-### 容斥原理 (1)
+### Principle of Inclusion-Exclusion (1)
 [1201. Ugly Number III (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
 
 ### Backtracking (5)
