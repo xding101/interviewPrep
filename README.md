@@ -59,7 +59,7 @@
 [421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
 
 ## Dynamic Programming
-<br/>
+
 ### Linear DP
 
 
