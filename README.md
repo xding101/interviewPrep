@@ -1,4 +1,4 @@
-# 103 Interview Question Get you into FFANG (66brother)
+# 105 Interview Question Get you into FFANG (66brother)
 <br/>
  
 
@@ -96,6 +96,9 @@
 [1674. Minimum Moves to Make Array Complementary (M)   ](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) <br/> 
 [1854. Maximum Population Year (M)   ](https://leetcode.com/problems/maximum-population-year/) <br/> 
 
+### Divide Conquer (2)
+[454. 4Sum II (M)   ](https://leetcode.com/problems/4sum-ii/) <br/> 
+[2035. Partition Array Into Two Arrays to Minimize Sum Difference (H)   ](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) <br/> 
 
 ### Principle of Inclusion-Exclusion (1)
 [1201. Ugly Number III (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
