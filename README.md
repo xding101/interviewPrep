@@ -74,7 +74,7 @@
 [211. Design Add and Search Words Data Structure (M)   ](https://leetcode.com/problems/design-add-and-search-words-data-structure/) <br/> 
 [421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
 
-### Segment Tree (3) (Please Solve them by using Segment Tree)
+### Segment Tree (3) (Please solve them by using Segment Tree)
 [300. Longest Increasing Subsequence (M)   ](https://leetcode.com/problems/longest-increasing-subsequence/) <br/> 
 [307. Range Sum Query - Mutable (M)   ](https://leetcode.com/problems/range-sum-query-mutable/) <br/> 
 [315. Count of Smaller Numbers After Self (H)   ](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) <br/> 
