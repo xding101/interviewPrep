@@ -1,4 +1,4 @@
-# 105 Interview Question Get you into FFANG (66brother)
+# 106 Interview Question Get you into FFANG (66brother)
 <br/>
  
 
@@ -86,6 +86,7 @@
 [295. Find Median from Data Stream (H)   ](https://leetcode.com/problems/find-median-from-data-stream/) <br/> 
 [502. IPO (H)   ](https://leetcode.com/problems/ipo/) <br/> 
 [692. Top K Frequent Words (M)   ](https://leetcode.com/problems/top-k-frequent-words/) <br/> 
+[2034. Stock Price Fluctuation (M)   ](https://leetcode.com/problems/stock-price-fluctuation/) <br/> 
 
 ### Strange Sort (2)
 [179. Largest Number (M)   ](https://leetcode.com/problems/largest-number/) <br/> 
