@@ -1,4 +1,5 @@
-# 100 Interview Question Get you into FFANG (66brother)
+# 107 Interview Question Get you into FFANG (66brother)
+<br/>
  
 
 
@@ -73,7 +74,7 @@
 [211. Design Add and Search Words Data Structure (M)   ](https://leetcode.com/problems/design-add-and-search-words-data-structure/) <br/> 
 [421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
 
-### Segment Tree (3) (Please Solve them by using Segment Tree)
+### Segment Tree (3) (Please solve them by using Segment Tree)
 [300. Longest Increasing Subsequence (M)   ](https://leetcode.com/problems/longest-increasing-subsequence/) <br/> 
 [307. Range Sum Query - Mutable (M)   ](https://leetcode.com/problems/range-sum-query-mutable/) <br/> 
 [315. Count of Smaller Numbers After Self (H)   ](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) <br/> 
@@ -85,6 +86,7 @@
 [295. Find Median from Data Stream (H)   ](https://leetcode.com/problems/find-median-from-data-stream/) <br/> 
 [502. IPO (H)   ](https://leetcode.com/problems/ipo/) <br/> 
 [692. Top K Frequent Words (M)   ](https://leetcode.com/problems/top-k-frequent-words/) <br/> 
+[2034. Stock Price Fluctuation (M)   ](https://leetcode.com/problems/stock-price-fluctuation/) <br/> 
 
 ### Strange Sort (2)
 [179. Largest Number (M)   ](https://leetcode.com/problems/largest-number/) <br/> 
@@ -95,6 +97,9 @@
 [1674. Minimum Moves to Make Array Complementary (M)   ](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) <br/> 
 [1854. Maximum Population Year (M)   ](https://leetcode.com/problems/maximum-population-year/) <br/> 
 
+### Divide Conquer (2)
+[454. 4Sum II (M)   ](https://leetcode.com/problems/4sum-ii/) <br/> 
+[2035. Partition Array Into Two Arrays to Minimize Sum Difference (H)   ](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) <br/> 
 
 ### Principle of Inclusion-Exclusion (1)
 [1201. Ugly Number III (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
@@ -136,7 +141,7 @@
 [1339. Maximum Product of Splitted Binary Tree (M)   ](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) <br/> 
 
 ### Union Find (4)
-[684. Redundant Connection (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
+[684. Redundant Connection (M)   ](https://leetcode.com/problems/redundant-connection/) <br/> 
 [1202. Smallest String With Swaps (M)   ](https://leetcode.com/problems/smallest-string-with-swaps/) <br/> 
 [1319. Number of Operations to Make Network Connected (M)   ](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) <br/> 
 [1722. Minimize Hamming Distance After Swap Operations (M)   ](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) <br/> 
@@ -175,7 +180,8 @@
 ### KnapSack (1)
 [416. Partition Equal Subset Sum  (M)   ](https://leetcode.com/problems/partition-equal-subset-sum/) <br/> 
 
-### Left/Right DP (3)
+### Left/Right DP (4)
+[123. Best Time to Buy and Sell Stock III (H)   ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) <br/> 
 [238. Product of Array Except Self (M)   ](https://leetcode.com/problems/product-of-array-except-self/) <br/> 
 [918. Maximum Sum Circular Subarray (M)   ](https://leetcode.com/problems/maximum-sum-circular-subarray/) <br/> 
 [1186. Maximum Subarray Sum with One Deletion (M)   ](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/submissions/) <br/> 
