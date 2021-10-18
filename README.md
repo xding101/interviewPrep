@@ -21,9 +21,9 @@
 ⏪[442. Find All Duplicates in an Array (M)   ](https://leetcode.com/problems/find-all-duplicates-in-an-array/) <br/> 
 
 ### LinkedList (4)
-[21. Merge Two Sorted Lists (E)   ](https://leetcode.com/problems/merge-two-sorted-lists/) <br/> 
+✅[21. Merge Two Sorted Lists (E)   ](https://leetcode.com/problems/merge-two-sorted-lists/) <br/> 
 [23. Merge K Sorted Lists (H)   ](https://leetcode.com/problems/merge-k-sorted-lists/) <br/> 
-[206. Reverse Linked List (E)   ](https://leetcode.com/problems/reverse-linked-list/) <br/> 
+✅[206. Reverse Linked List (E)   ](https://leetcode.com/problems/reverse-linked-list/) <br/> 
 [876. Middle of the Linked List (E)   ](https://leetcode.com/problems/middle-of-the-linked-list/) <br/> 
 
 ### Two Pointer (2)
@@ -31,9 +31,9 @@
 [88. Merge Sorted Array (E)   ](https://leetcode.com/problems/merge-sorted-array/) <br/> 
 
 ### Sliding Window (3)
-[3. Longest Substring Without Repeating Characters (M)   ](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br/> 
-[1004. Max Consecutive Ones III (M)   ](https://leetcode.com/problems/max-consecutive-ones-iii/) <br/> 
-[2024. Maximize the Confusion of an Exam (M)   ](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) <br/>
+⏪[3. Longest Substring Without Repeating Characters (M)   ](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br/> 
+⏪[1004. Max Consecutive Ones III (M)   ](https://leetcode.com/problems/max-consecutive-ones-iii/) <br/> 
+⏪[2024. Maximize the Confusion of an Exam (M)   ](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) <br/>
 
 ### Backtracking (5)
 [17. Letter Combinations of a Phone Number (M)   ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) <br/> 
@@ -43,16 +43,16 @@
 [980. Unique Paths III (H)   ](https://leetcode.com/problems/unique-paths-iii/) <br/> 
 
 ### Bit (5)
-[136. Single Number (E)   ](https://leetcode.com/problems/single-number/) <br/> 
-[137. Single Number II (M)   ](https://leetcode.com/problems/single-number-ii/) <br/> 
-[191. Number of 1 Bits (E)   ](https://leetcode.com/problems/number-of-1-bits/) <br/> 
-[260. Single Number III (M)   ](https://leetcode.com/problems/single-number-iii/) <br/> 
-[477. Total Hamming Distance (M)   ](https://leetcode.com/problems/total-hamming-distance/) <br/> 
+✅[136. Single Number (E)   ](https://leetcode.com/problems/single-number/) <br/> 
+✅[137. Single Number II (M)   ](https://leetcode.com/problems/single-number-ii/) <br/> 
+✅[191. Number of 1 Bits (E)   ](https://leetcode.com/problems/number-of-1-bits/) <br/> 
+✅[260. Single Number III (M)   ](https://leetcode.com/problems/single-number-iii/) <br/> 
+✅[477. Total Hamming Distance (M)   ](https://leetcode.com/problems/total-hamming-distance/) <br/> 
 
 ### Bitmask BruteForce (3)
-[78. Subsets (M)   ](https://leetcode.com/problems/subsets/) <br/> 
-[1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix (H)   ](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) <br/> 
-[1601. Maximum Number of Achievable Transfer Requests (H)   ](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) <br/> 
+✅[78. Subsets (M)   ](https://leetcode.com/problems/subsets/) <br/> 
+✅[1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix (H)   ](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) <br/> 
+✅[1601. Maximum Number of Achievable Transfer Requests (H)   ](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) <br/> 
 
 ### Binary Search (7)
 [69. Sqrt(x) (E)   ](https://leetcode.com/problems/sqrtx/) <br/>
@@ -110,7 +110,7 @@
 ## Graph
 
 ### General Graph Question (1)
-[133. Clone Graph (M)   ](https://leetcode.com/problems/clone-graph/) <br/> 
+✅[133. Clone Graph (M)   ](https://leetcode.com/problems/clone-graph/) <br/> 
 
 ### BFS/DFS (4)
 [130. Surrounded Regions (M)   ](https://leetcode.com/problems/surrounded-regions/) <br/> 
