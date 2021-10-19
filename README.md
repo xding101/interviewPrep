@@ -11,7 +11,7 @@
 ✅[1848. Minimum Distance to the Target Element (E)   ](https://leetcode.com/problems/minimum-distance-to-the-target-element/) <br/> 
 ✅[1929. Concatenation of Array (E)   ](https://leetcode.com/problems/concatenation-of-array/) <br/> 
 ✅[2006. Count Number of Pairs With Absolute Difference K (E)   ](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) <br/> 
-[2011. Final Value of Variable After Performing Operations (E)   ](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) <br/> 
+✅[2011. Final Value of Variable After Performing Operations (E)   ](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) <br/> 
 [2022. Convert 1D Array Into 2D Array (E)   ](https://leetcode.com/problems/convert-1d-array-into-2d-array/) <br/> 
 [2027. Minimum Moves to Convert String (E)   ](https://leetcode.com/problems/minimum-moves-to-convert-string/) <br/> 
 
@@ -131,8 +131,8 @@
 [1293. Shortest Path in a Grid with Obstacles Elimination (H)   ](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) <br/> 
 
 ### Tree (9)
-[98. Validate Binary Search Tree (M)   ](https://leetcode.com/problems/validate-binary-search-tree/) <br/> 
-[103. Binary Tree Zigzag Level Order Traversal (M)   ](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) <br/> 
+✅[98. Validate Binary Search Tree (M)   ](https://leetcode.com/problems/validate-binary-search-tree/) <br/> 
+✅[103. Binary Tree Zigzag Level Order Traversal (M)   ](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) <br/> 
 [108. Convert Sorted Array to Binary Search Tree (E)   ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) <br/> 
 [116. Populating Next Right Pointers in Each Node (M)   ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) <br/> 
 [236. Lowest Common Ancestor of a Binary Tree (M)   ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) <br/> 
