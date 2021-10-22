@@ -138,7 +138,7 @@
 [236. Lowest Common Ancestor of a Binary Tree (M)   ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) <br/> 
 ✅[543. Diameter of Binary Tree (E)   ](https://leetcode.com/problems/diameter-of-binary-tree/) <br/> 
 ✅[894. All Possible Full Binary Trees (M)   ](https://leetcode.com/problems/all-possible-full-binary-trees/) <br/> 
-[987. Vertical Order Traversal of a Binary Tree (H)   ](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) <br/> 
+✅[987. Vertical Order Traversal of a Binary Tree (H)   ](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) <br/> 
 [1339. Maximum Product of Splitted Binary Tree (M)   ](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) <br/> 
 
 ### Union Find (4)
