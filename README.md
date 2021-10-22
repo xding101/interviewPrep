@@ -190,7 +190,7 @@
 ### Prefix Sum (3)
 [560. Subarray Sum Equals K (M)   ](https://leetcode.com/problems/subarray-sum-equals-k/) <br/>
 [1402. Reducing Dishes (H)   ](https://leetcode.com/problems/reducing-dishes/) <br/>
-[1524. Number of Sub-arrays With Odd Sum (M)   ](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) <br/>
+[1524. Number of Sub-arrays With Odd Sum (M)   ](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) <br/> <br/> <br/>
 
 
 <img src="award.png"  align=right />  
