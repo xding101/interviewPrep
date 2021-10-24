@@ -119,7 +119,7 @@
 [934. Shortest Bridges (M)   ](https://leetcode.com/problems/shortest-bridge/) <br/> 
 [994. Rotting Oranges (M)   ](https://leetcode.com/problems/rotting-oranges/) <br/> 
 
-### Topological Sort (1)
+### Topological Sort (2)
 [207. Course Schedule (M)   ](https://leetcode.com/problems/course-schedule/) <br/> 
 [2050. Parallel Courses III (H)   ](https://leetcode.com/problems/parallel-courses-iii/) <br/> 
 
