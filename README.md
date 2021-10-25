@@ -143,10 +143,10 @@
 ✅[1339. Maximum Product of Splitted Binary Tree (M)   ](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) <br/> 
 
 ### Union Find (4)
-[684. Redundant Connection (M)   ](https://leetcode.com/problems/redundant-connection/) <br/> 
-[1202. Smallest String With Swaps (M)   ](https://leetcode.com/problems/smallest-string-with-swaps/) <br/> 
-[1319. Number of Operations to Make Network Connected (M)   ](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) <br/> 
-[1722. Minimize Hamming Distance After Swap Operations (M)   ](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) <br/> 
+⏪[684. Redundant Connection (M)   ](https://leetcode.com/problems/redundant-connection/) <br/> 
+✅[1202. Smallest String With Swaps (M)   ](https://leetcode.com/problems/smallest-string-with-swaps/) <br/> 
+⏪[1319. Number of Operations to Make Network Connected (M)   ](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) <br/> 
+✅[1722. Minimize Hamming Distance After Swap Operations (M)   ](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) <br/> 
 
 
 
