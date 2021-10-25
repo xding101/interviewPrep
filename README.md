@@ -1,4 +1,4 @@
-# 108 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
+# 109 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
 <br/>
  
 
@@ -119,8 +119,9 @@
 [934. Shortest Bridges (M)   ](https://leetcode.com/problems/shortest-bridge/) <br/> 
 [994. Rotting Oranges (M)   ](https://leetcode.com/problems/rotting-oranges/) <br/> 
 
-### Topological Sort (1)
+### Topological Sort (2)
 [207. Course Schedule (M)   ](https://leetcode.com/problems/course-schedule/) <br/> 
+[2050. Parallel Courses III (H)   ](https://leetcode.com/problems/parallel-courses-iii/) <br/> 
 
 ### Bipartite Graph (1)
 [785. Is Graph Bipartite? (M)   ](https://leetcode.com/problems/is-graph-bipartite/) <br/> 
@@ -193,6 +194,13 @@
 [1524. Number of Sub-arrays With Odd Sum (M)   ](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) <br/> <br/> <br/>
 
 
+
+
+### Template
+[ Double LinkedList ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/dd.txt) <br/>
+[ UF ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/UFMAP.txt) <br/>
+[ GCD ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/gcd.txt) <br/>
+[ Segment Tree ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/seg1.txt) <br/>
 
 
 
