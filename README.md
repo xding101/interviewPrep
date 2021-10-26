@@ -161,7 +161,7 @@
 ✅[70. Climbing Stairs (Prefix Tree) (E)   ](https://leetcode.com/problems/climbing-stairs/) <br/> 
 ☑️[91. Decode Ways (M)   ](https://leetcode.com/problems/decode-ways/) <br/> 
 ☑️[139. Word Break (M)   ](https://leetcode.com/problems/word-break/) <br/> 
-[1220. Count Vowels Permutation (H)   ](https://leetcode.com/problems/count-vowels-permutation/) <br/> 
+✅[1220. Count Vowels Permutation (H)   ](https://leetcode.com/problems/count-vowels-permutation/) <br/> 
 
 ### DFS + Memo (1)
 [576. Out of Boundary Paths  (M)   ](https://leetcode.com/problems/out-of-boundary-paths/) <br/> 
