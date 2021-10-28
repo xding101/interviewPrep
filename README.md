@@ -168,11 +168,11 @@
 ✅[1220. Count Vowels Permutation (H)   ](https://leetcode.com/problems/count-vowels-permutation/) <br/> 
 
 ### DFS + Memo (1)
-[576. Out of Boundary Paths  (M)   ](https://leetcode.com/problems/out-of-boundary-paths/) <br/> 
+✅[[576. Out of Boundary Paths  (M)   ](https://leetcode.com/problems/out-of-boundary-paths/) <br/> 
 
 ### Bitmask DP (2)
-[526. Beautiful Arrangement (M)   ](https://leetcode.com/problems/beautiful-arrangement/) <br/> 
-[1799. Maximize Score After N Operations  (H)   ](https://leetcode.com/problems/maximize-score-after-n-operations/) <br/> 
+✅[[526. Beautiful Arrangement (M)   ](https://leetcode.com/problems/beautiful-arrangement/) <br/> 
+✅[[1799. Maximize Score After N Operations  (H)   ](https://leetcode.com/problems/maximize-score-after-n-operations/) <br/> 
 
 ### State Representation DP (2)
 [552. Student Attendance Record II (M)   ](https://leetcode.com/problems/student-attendance-record-ii/) <br/> 
