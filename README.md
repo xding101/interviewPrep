@@ -1,4 +1,4 @@
-# 111 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
+# 113 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
 <br/>
  
 
@@ -92,6 +92,10 @@
 [502. IPO (H)   ](https://leetcode.com/problems/ipo/) <br/> 
 [692. Top K Frequent Words (M)   ](https://leetcode.com/problems/top-k-frequent-words/) <br/> 
 [2034. Stock Price Fluctuation (M)   ](https://leetcode.com/problems/stock-price-fluctuation/) <br/> 
+
+### Sort (2)
+[75. Sort Colors (M)   ](https://leetcode.com/problems/sort-colors/) <br/> 
+[283. Move Zeroes (E)   ](https://leetcode.com/problems/move-zeroes/) <br/> 
 
 ### Strange Sort (2)
 [179. Largest Number (M)   ](https://leetcode.com/problems/largest-number/) <br/> 
