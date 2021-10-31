@@ -71,8 +71,8 @@
 [1081. Smallest Subsequence of Distinct Characters (M)   ](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) <br/> 
 
 ### Interval Problem (3)
-[56. Merge Intervals (M)   ](https://leetcode.com/problems/merge-intervals/) <br/> 
-[435. Non-overlapping Intervals (M)   ](https://leetcode.com/problems/non-overlapping-intervals/) <br/>
+✅[56. Merge Intervals (M)   ](https://leetcode.com/problems/merge-intervals/) <br/> 
+✅[435. Non-overlapping Intervals (M)   ](https://leetcode.com/problems/non-overlapping-intervals/) <br/>
 [2054. Two Best Non-Overlapping Events (M)   ](https://leetcode.com/problems/two-best-non-overlapping-events//) <br/>
 
 ### Trie (3)
