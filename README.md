@@ -73,7 +73,7 @@
 ### Interval Problem (3)
 ✅[56. Merge Intervals (M)   ](https://leetcode.com/problems/merge-intervals/) <br/> 
 ✅[435. Non-overlapping Intervals (M)   ](https://leetcode.com/problems/non-overlapping-intervals/) <br/>
-[2054. Two Best Non-Overlapping Events (M)   ](https://leetcode.com/problems/two-best-non-overlapping-events//) <br/>
+✅[2054. Two Best Non-Overlapping Events (M)   ](https://leetcode.com/problems/two-best-non-overlapping-events//) <br/>
 
 ### Trie (3)
 [208. Implement Trie (Prefix Tree) (M)   ](https://leetcode.com/problems/implement-trie-prefix-tree/) <br/> 
