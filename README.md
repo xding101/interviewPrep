@@ -76,8 +76,8 @@
 ✅[2054. Two Best Non-Overlapping Events (M)   ](https://leetcode.com/problems/two-best-non-overlapping-events//) <br/>
 
 ### Trie (3)
-[208. Implement Trie (Prefix Tree) (M)   ](https://leetcode.com/problems/implement-trie-prefix-tree/) <br/> 
-[211. Design Add and Search Words Data Structure (M)   ](https://leetcode.com/problems/design-add-and-search-words-data-structure/) <br/> 
+✅[208. Implement Trie (Prefix Tree) (M)   ](https://leetcode.com/problems/implement-trie-prefix-tree/) <br/> 
+✅[211. Design Add and Search Words Data Structure (M)   ](https://leetcode.com/problems/design-add-and-search-words-data-structure/) <br/> 
 [421. Maximum XOR of Two Numbers in an Array (M)   ](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) <br/> 
 
 ### Segment Tree (3) (Please solve them by using Segment Tree)
@@ -180,7 +180,7 @@
 ✅[[1799. Maximize Score After N Operations  (H)   ](https://leetcode.com/problems/maximize-score-after-n-operations/) <br/> 
 
 ### State Representation DP (2)
-[552. Student Attendance Record II (M)   ](https://leetcode.com/problems/student-attendance-record-ii/) <br/> 
+✅[552. Student Attendance Record II (M)   ](https://leetcode.com/problems/student-attendance-record-ii/) <br/> 
 [1411. Number of Ways to Paint N × 3 Grid (H)   ](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) <br/> 
 
 ### Tree DP (3)
