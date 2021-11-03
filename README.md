@@ -27,7 +27,7 @@
 [876. Middle of the Linked List (E)   ](https://leetcode.com/problems/middle-of-the-linked-list/) <br/> 
 
 ### Two Pointer (2)
-[11. Container With Most Water (M)   ](https://leetcode.com/problems/container-with-most-water/submissions/) <br/> 
+✅[11. Container With Most Water (M)   ](https://leetcode.com/problems/container-with-most-water/submissions/) <br/> 
 [88. Merge Sorted Array (E)   ](https://leetcode.com/problems/merge-sorted-array/) <br/> 
 
 ### Sliding Window (3)
@@ -184,7 +184,7 @@
 ⏪[1411. Number of Ways to Paint N × 3 Grid (H)   ](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) <br/> 
 
 ### Tree DP (3)
-[96. Unique Binary Search Trees (M)   ](https://leetcode.com/problems/unique-binary-search-trees/) <br/> 
+✅[96. Unique Binary Search Trees (M)   ](https://leetcode.com/problems/unique-binary-search-trees/) <br/> 
 [337. House Robber III (M)   ](https://leetcode.com/problems/house-robber-iii/) <br/> 
 [834. Sum of Distances in Tree  (H)   ](https://leetcode.com/problems/sum-of-distances-in-tree/) <br/> 
 
