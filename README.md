@@ -1,7 +1,7 @@
 # 114 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
 <br/>
  
-
+(59/114) 💩
 
 ### Basic Programming (10)
 ✅[485. Max Consecutive Ones (E)   ](https://leetcode.com/problems/max-consecutive-ones/) <br/> 
