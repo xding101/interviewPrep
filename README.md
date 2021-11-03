@@ -181,7 +181,7 @@
 
 ### State Representation DP (2)
 ✅[552. Student Attendance Record II (M)   ](https://leetcode.com/problems/student-attendance-record-ii/) <br/> 
-[1411. Number of Ways to Paint N × 3 Grid (H)   ](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) <br/> 
+⏪[1411. Number of Ways to Paint N × 3 Grid (H)   ](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) <br/> 
 
 ### Tree DP (3)
 [96. Unique Binary Search Trees (M)   ](https://leetcode.com/problems/unique-binary-search-trees/) <br/> 
