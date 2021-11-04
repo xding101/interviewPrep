@@ -1,4 +1,4 @@
-# 114 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
+# 115 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
 <br/>
  
 (59/114) 💩
@@ -197,7 +197,8 @@
 ✅[918. Maximum Sum Circular Subarray (M)   ](https://leetcode.com/problems/maximum-sum-circular-subarray/) <br/> 
 ✅[1186. Maximum Subarray Sum with One Deletion (M)   ](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/submissions/) <br/> 
 
-### Prefix Sum (3)
+### Prefix Sum (4)
+[525. Contiguous Array (M)   ](https://leetcode.com/problems/contiguous-array/) <br/>
 [560. Subarray Sum Equals K (M)   ](https://leetcode.com/problems/subarray-sum-equals-k/) <br/>
 [1402. Reducing Dishes (H)   ](https://leetcode.com/problems/reducing-dishes/) <br/>
 ✅[[1524. Number of Sub-arrays With Odd Sum (M)   ](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) <br/> <br/> <br/>
