@@ -86,7 +86,7 @@
 [315. Count of Smaller Numbers After Self (H)   ](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) <br/> 
 
 ### Monoqueue (1)
-[239. Sliding Window Maximum (H)   ](https://leetcode.com/problems/sliding-window-maximum/) <br/> 
+✅[239. Sliding Window Maximum (H)   ](https://leetcode.com/problems/sliding-window-maximum/) <br/> 
 
 ### Heap (3)
 [295. Find Median from Data Stream (H)   ](https://leetcode.com/problems/find-median-from-data-stream/) <br/> 
@@ -130,7 +130,7 @@
 
 ### Topological Sort (2)
 ✅[207. Course Schedule (M)   ](https://leetcode.com/problems/course-schedule/) <br/> 
-[2050. Parallel Courses III (H)   ](https://leetcode.com/problems/parallel-courses-iii/) <br/> 
+✅[2050. Parallel Courses III (H)   ](https://leetcode.com/problems/parallel-courses-iii/) <br/> 
 
 ### Bipartite Graph (1)
 [785. Is Graph Bipartite? (M)   ](https://leetcode.com/problems/is-graph-bipartite/) <br/> 
