@@ -213,7 +213,7 @@
 [ UF ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/UFMAP.txt) <br/>
 [ GCD ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/gcd.txt) <br/>
 [ Segment Tree ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/seg1.txt) <br/>
-
+[ Rabin Karb ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/hash.txt) <br/>
 
 
 <img src="Drawing-20.sketchpad (14).png"  align=right />  
