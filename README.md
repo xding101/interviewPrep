@@ -158,7 +158,9 @@
 [1722. Minimize Hamming Distance After Swap Operations (M)   ](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) <br/> 
 
 
-
+### String (KMP)
+[28. Implement strStr() (M)   ](https://leetcode.com/problems/implement-strstr/) <br/> 
+[1392. Longest Happy Prefix (H)   ](https://leetcode.com/problems/longest-happy-prefix/) <br/> 
 
 
 
