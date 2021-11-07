@@ -1,4 +1,4 @@
-# 117 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
+# 118 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
 <br/>
  
 
@@ -113,6 +113,10 @@
 
 ### Principle of Inclusion-Exclusion (1)
 [1201. Ugly Number III (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
+
+### Exactly K (1)
+[992. Subarrays with K Different Integers (H)   ](https://leetcode.com/problems/subarrays-with-k-different-integers/) <br/> 
+
 
 
 <br/><br/><br/>
