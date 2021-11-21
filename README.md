@@ -1,4 +1,4 @@
-# 115 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
+# 118 Interview Question Get you into FFANG ([66brother](https://leetcode.com/66brother/))
 <br/>
  
 (59/114) 💩
@@ -114,6 +114,10 @@
 ### Principle of Inclusion-Exclusion (1)
 [1201. Ugly Number III (M)   ](https://leetcode.com/problems/ugly-number-iii/) <br/> 
 
+### Exactly K (1)
+[992. Subarrays with K Different Integers (H)   ](https://leetcode.com/problems/subarrays-with-k-different-integers/) <br/> 
+
+
 
 <br/><br/><br/>
 
@@ -158,7 +162,9 @@
 ✅[1722. Minimize Hamming Distance After Swap Operations (M)   ](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) <br/> 
 
 
-
+### String (KMP) (2)
+[28. Implement strStr() (M)   ](https://leetcode.com/problems/implement-strstr/) <br/> 
+[1392. Longest Happy Prefix (H)   ](https://leetcode.com/problems/longest-happy-prefix/) <br/> 
 
 
 
@@ -211,7 +217,7 @@
 [ UF ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/UFMAP.txt) <br/>
 [ GCD ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/gcd.txt) <br/>
 [ Segment Tree ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/seg1.txt) <br/>
-
+[ Rabin Karb ](https://github.com/JunBinLiang/Leetcode-Complete-Guide/blob/master/template/hash.txt) <br/>
 
 
 <img src="Drawing-20.sketchpad (14).png"  align=right />  
