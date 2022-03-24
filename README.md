@@ -133,11 +133,11 @@
 [994. Rotting Oranges (M)   ](https://leetcode.com/problems/rotting-oranges/) <br/> 
 
 ### Topological Sort (2)
-✅[207. Course Schedule (M)   ](https://leetcode.com/problems/course-schedule/) <br/> 
-✅[2050. Parallel Courses III (H)   ](https://leetcode.com/problems/parallel-courses-iii/) <br/> 
+😀✅[207. Course Schedule (M)   ](https://leetcode.com/problems/course-schedule/) <br/> 
+😀✅[2050. Parallel Courses III (H)   ](https://leetcode.com/problems/parallel-courses-iii/) <br/> 
 
 ### Bipartite Graph (1)
-[785. Is Graph Bipartite? (M)   ](https://leetcode.com/problems/is-graph-bipartite/) <br/> 
+😀[785. Is Graph Bipartite? (M)   ](https://leetcode.com/problems/is-graph-bipartite/) <br/> 
 
 ### Shortest Path (3)
 [743. Network Delay Time (M)   ](https://leetcode.com/problems/network-delay-time/) <br/> 
